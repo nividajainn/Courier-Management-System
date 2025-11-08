@@ -50,4 +50,4 @@ Refer to Codebase https://github.com/nividajainn/Courier-Management-System/tree/
 4. Ensure `.env` file is created under the root directory i.e ```demo``` .
 
 ## **Preview**
-[Online Courier Management System.webm] (<img src="./demo/src/main/java/com/394550291-60dcb8a5-7ac4-4bfd-964c-0eb7922675e2.webm">)
+[Online Courier Management System.webm] https://github.com/nividajainn/Courier-Management-System/blob/main/394550291-60dcb8a5-7ac4-4bfd-964c-0eb7922675e2.webm
